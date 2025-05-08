@@ -1,0 +1,7 @@
+#spring.application.name=demofullstack
+spring:
+  application:
+    name: FULL-STACK-BE
+
+server:
+  port: 8081
